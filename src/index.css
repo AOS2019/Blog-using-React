@@ -48,3 +48,10 @@
   color: #f1356d;
   margin-bottom: 8px;
 }
+.loading, .error {
+  padding-top: 300px;
+  padding-bottom: 300px;
+  margin-top: -60px;
+  text-align: center;
+  background-color: rgb(206, 203, 203);
+}
